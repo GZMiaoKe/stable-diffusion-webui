@@ -1,0 +1,3 @@
+[submodule "extensions/sd-webui-prompt-all-in-one"]
+	path = extensions/sd-webui-prompt-all-in-one
+	url = https://github.com/GZMiaoKe/sd-webui-prompt-all-in-one.git
